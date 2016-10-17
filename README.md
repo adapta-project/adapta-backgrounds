@@ -3,7 +3,7 @@ Adapta-Backgrounds
 
 A wallpaper collection for adapta-project.
 
-  <img src=".github/img/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno-Thumbnail" align="center" />
+  <img src=".github/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno-Thumbnail" align="center" />
 
 Installation from Package
 ------------

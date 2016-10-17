@@ -5,6 +5,7 @@ SUBDIRS = \
 	backgrounds
 
 EXTRA_DIST = \
+	AUTHORS \
 	COPYING \
 	LICENSE_CC_BY_SA3
 

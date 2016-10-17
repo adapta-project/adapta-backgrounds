@@ -3,12 +3,14 @@ Adapta-Backgrounds
 
 A wallpaper collection for adapta-project.
 
-### 1. Tri-Fadeno
+  **1. Tri-Fadeno**
 
-  <img src=".github/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno" align="left" />
+  <img src=".github/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>
 
   > Author: Tista
+  >
   > Resolution: 3840 x 2160 pixels
+  >
   > Image-Type: Drawing
 
 Installation from Package

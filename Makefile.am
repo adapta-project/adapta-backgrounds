@@ -1,5 +1,5 @@
 backgroundsdir  = $(datadir)/backgrounds
-adaptadir = $(backgroundsdir)/adapta
+adaptadir = $(DESTDIR)$(backgroundsdir)/adapta
 
 SUBDIRS = \
 	backgrounds

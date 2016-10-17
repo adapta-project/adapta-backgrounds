@@ -1,10 +1,10 @@
-backgrounddir = $(datadir)/backgrounds/adapta
+backgrounddir = $(DESTDIR)$(datadir)/backgrounds/adapta
 
 background_DATA =\
 	tri-fadeno.jpg
 
 metadata_in_files = adapta-backgrounds.xml.in
-metadatadir = $(datadir)/gnome-background-properties
+metadatadir = $(DESTDIR)$(datadir)/gnome-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 
 noinst_DATA = adapta-backgrounds.xml.in

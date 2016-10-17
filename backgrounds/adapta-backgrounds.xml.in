@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<wallpapers>
+	<wallpaper deleted="false">
+		<_name>Tri-Fadeno</_name>
+		<filename>@BACKGROUNDDIR@/tri-fadeno.jpg</filename>
+		<options>zoom</options>
+		<pcolor>#ffffff</pcolor>
+		<scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>

@@ -1,5 +1,3 @@
-ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
-
 backgroundsdir  = $(datadir)/backgrounds
 adaptadir = $(DESTDIR)$(backgroundsdir)/adapta
 

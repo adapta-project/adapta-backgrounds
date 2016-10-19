@@ -1,4 +1,4 @@
-<img src=".github/logo-thumb.png" alt="Logo" align="left"/> Adapta-backgrounds
+<img src=".github/logo_thumb.png" alt="Logo" align="left"/> Adapta-backgrounds
 =========
 
 A wallpaper collection for adapta-project.

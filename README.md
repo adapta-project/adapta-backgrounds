@@ -15,6 +15,9 @@ A wallpaper collection for adapta-project.
 
 Installation from Package
 ------------
+ * AUR: https://aur.archlinux.org/packages/adapta-backgrounds
+
+ * PPA: https://launchpad.net/~tista/+archive/ubuntu/adapta
 
 Installation from Git Source
 ------------

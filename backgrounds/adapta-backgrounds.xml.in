@@ -2,7 +2,7 @@
 <wallpapers>
     <wallpaper deleted="false">
         <name>Tri-Fadeno</name>
-        <filename>/usr/share/backgrounds/adapta/tri-fadeno.jpg</filename>
+        <filename>@BACKGROUNDDIR@/tri-fadeno.jpg</filename>
         <options>zoom</options>
         <pcolor>#000000</pcolor>
         <scolor>#000000</scolor>
@@ -10,7 +10,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Tealized</name>
-        <filename>/usr/share/backgrounds/adapta/tealized.jpg</filename>
+        <filename>@BACKGROUNDDIR@/tealized.jpg</filename>
         <options>zoom</options>
         <pcolor>#000000</pcolor>
         <scolor>#000000</scolor>

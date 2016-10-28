@@ -1,7 +1,8 @@
 backgrounddir = $(datadir)/backgrounds/adapta
 
 background_DATA =\
-	tri-fadeno.jpg
+	tri-fadeno.jpg \
+	tealized.jpg
 
 metadata_in_files = adapta-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties

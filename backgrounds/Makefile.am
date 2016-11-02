@@ -18,7 +18,7 @@ edit = sed -e 's|@BACKGROUNDDIR[@]|$(backgrounddir)|g'
 adapta-backgrounds.xml: adapta-backgrounds.xml.in Makefile
 	$(edit) $< >$@
 
-CLEANFILES = $(srcdir)/backgrounds/adapta-backgrounds.xml
+CLEANFILES = $(srcdir)/adapta-backgrounds.xml
 
 DISTCLEANFILES = \
 	$(CLEANFILES)

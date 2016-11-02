@@ -23,6 +23,16 @@ A wallpaper collection for adapta-project.
   >
   > Image-Type: Drawing
 
+  **3. Suna**
+
+  <img src=".github/suna-thumbnail.jpg" alt="Suna"/>
+
+  > Author: Tista
+  >
+  > Resolution: 3840 x 2160 pixels
+  >
+  > Image-Type: Drawing
+
 Installation from Package
 ------------
  * AUR: https://aur.archlinux.org/packages/adapta-backgrounds

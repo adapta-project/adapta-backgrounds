@@ -1,11 +1,11 @@
-<img src=".github/logo_thumb.png" alt="Logo" align="left"/> Adapta-backgrounds
+<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/logo_thumb.png" alt="Logo" align="left"/> Adapta-backgrounds
 =========
 
 A wallpaper collection for adapta-project.
 
   **1. Tri-Fadeno**
 
-  <img src=".github/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>
 
   > Author: Tista
   >
@@ -15,7 +15,7 @@ A wallpaper collection for adapta-project.
 
   **2. Tealized**
 
-  <img src=".github/tealized-thumbnail.jpg" alt="Tealized"/>
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tealized-thumbnail.jpg" alt="Tealized"/>
 
   > Author: Tista
   >
@@ -25,7 +25,17 @@ A wallpaper collection for adapta-project.
 
   **3. Suna**
 
-  <img src=".github/suna-thumbnail.jpg" alt="Suna"/>
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/suna-thumbnail.jpg" alt="Suna"/>
+
+  > Author: Tista
+  >
+  > Resolution: 3840 x 2160 pixels
+  >
+  > Image-Type: Drawing
+
+  **4. Poly**
+
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/poly-thumbnail.jpg" alt="Poly"/>
 
   > Author: Tista
   >

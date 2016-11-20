@@ -80,6 +80,7 @@ Work in Progress
 TODO
 ----
 * Hunt some more wallpapers
+* Add a dynamic wallpaper
 
 Public License
 --------------

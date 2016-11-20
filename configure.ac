@@ -1,6 +1,6 @@
 AC_INIT(
 	[Adapta-backgrounds ],
-	0.3.0,
+	0.4.0,
 	[https://github.com/adapta-project/adapta-backgrounds],
 	[adapta-backgrounds]
 )

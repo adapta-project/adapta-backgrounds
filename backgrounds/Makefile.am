@@ -3,7 +3,8 @@ backgrounddir = $(datadir)/backgrounds/adapta
 background_DATA =\
 	tri-fadeno.jpg \
 	tealized.jpg \
-	suna.jpg
+	suna.jpg \
+	poly.jpg
 
 metadata_in_files = adapta-backgrounds.xml.in
 metadatadir = $(datadir)/gnome-background-properties

@@ -3,45 +3,16 @@
 
 A wallpaper collection for adapta-project.
 
-  **1. Tri-Fadeno**
-
-  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>
-
-  > Author: Tista
-  >
-  > Resolution: 3840 x 2160 pixels
-  >
-  > Image-Type: Drawing
-
-  **2. Tealized**
-
-  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tealized-thumbnail.jpg" alt="Tealized"/>
-
-  > Author: Tista
-  >
-  > Resolution: 3840 x 2160 pixels
-  >
-  > Image-Type: Drawing
-
-  **3. Suna**
-
-  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/suna-thumbnail.jpg" alt="Suna"/>
-
-  > Author: Tista
-  >
-  > Resolution: 3840 x 2160 pixels
-  >
-  > Image-Type: Drawing
-
-  **4. Poly**
-
-  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/poly-thumbnail.jpg" alt="Poly"/>
-
-  > Author: Tista
-  >
-  > Resolution: 3840 x 2160 pixels
-  >
-  > Image-Type: Drawing
+  |**1. Tri-Fadeno**|**2. Tealized**|**3. Suna**|
+  |<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>|
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tealized-thumbnail.jpg" alt="Tealized"/>|
+  <img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/suna-thumbnail.jpg" alt="Suna"/>|
+  | > Author: Tista > Resolution: 3840 x 2160 pixels > Image-Type: Drawing|
+  > Author: Tista > Resolution: 3840 x 2160 pixels > Image-Type: Drawing|
+  > Author: Tista > Resolution: 3840 x 2160 pixels > Image-Type: Drawing|
+  |**4. Poly**|||
+  |<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/poly-thumbnail.jpg" alt="Poly"/>|||
+  | > Author: Tista > Resolution: 3840 x 2160 pixels > Image-Type: Drawing|||
 
 Installation from Package
 ------------

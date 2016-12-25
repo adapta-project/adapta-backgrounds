@@ -1,4 +1,4 @@
-<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/logo_thumb_christmas.png" alt="Logo" align="left"/> Adapta-backgrounds
+<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/logo_thumb.png" alt="Logo" align="left"/> Adapta-backgrounds
 =========
 
 A wallpaper collection for adapta-project.

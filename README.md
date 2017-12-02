@@ -8,10 +8,10 @@ A wallpaper collection for adapta-project.
 |<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tri-fadeno-thumbnail.jpg" alt="Tri-Fadeno"/>|<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/tealized-thumbnail.jpg" alt="Tealized"/>|<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/suna-thumbnail.jpg" alt="Suna"/>|
 | Author: Tista<br>Resolution: 3840 x 2160 pixels<br>Image-Type: Drawing | Author: Tista<br>Resolution: 3840 x 2160 pixels<br>Image-Type: Drawing | Author: Tista<br>Resolution: 3840 x 2160 pixels<br>Image-Type: Drawing |
 
-| **4. Poly** |
-|:---:|
-|<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/poly-thumbnail.jpg" alt="Poly"/>|
-| Author: Tista<br>Resolution: 3840 x 2160 pixels<br>Image-Type: Drawing |
+| **4. Poly** | **5. Kahelo** |
+|:---:|:---:|
+|<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/poly-thumbnail.jpg" alt="Poly"/>|<img src="https://github.com/adapta-project/adapta-github-resources/blob/master/images/kahelo-thumbnail.jpg" alt="Kahelo"/>|
+| Author: Tista<br>Resolution: 3840 x 2160 pixels<br>Image-Type: Drawing | Author: Tista<br>Resolution: 3840 x 2400 pixels<br>Image-Type: Drawing |
 
 Installation from Package
 ------------

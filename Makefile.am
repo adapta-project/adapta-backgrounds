@@ -7,7 +7,7 @@ SUBDIRS = \
 EXTRA_DIST = \
 	AUTHORS \
 	COPYING \
-	LICENSE_CC_BY_SA3
+	LICENSE_CC_BY_SA4
 
 install-data-hook:
 	cp -Rv $(EXTRA_DIST) $(adaptadir)

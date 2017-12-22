@@ -58,4 +58,4 @@ Public License
 
  > **Note:**
  >
- > wallpaper files are licensed under CC BY-SA 3.0
+ > wallpaper files are licensed under CC BY-SA 4.0

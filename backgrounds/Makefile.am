@@ -1,6 +1,6 @@
 backgrounddir = $(datadir)/backgrounds/adapta
 
-background_DATA =\
+background_DATA = \
 	tri-fadeno.jpg \
 	tealized.jpg \
 	suna.jpg \
@@ -8,8 +8,13 @@ background_DATA =\
 	kahelo.jpg
 
 metadata_in_files = adapta-backgrounds.xml.in
-metadatadir = $(datadir)/gnome-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
+metadatadir = $(datadir)/gnome-background-properties
+
+metadata_cinnamon_DATA = $(metadata_DATA)
+metadata_cinnamondir = $(datadir)/cinnamon-background-properties
+metadata_mate_DATA = $(metadata_DATA)
+metadata_matedir = $(datadir)/mate-background-properties
 
 noinst_DATA = adapta-backgrounds.xml.in
 

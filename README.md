@@ -26,7 +26,6 @@ Installation from Git Source
 
  ```
  * libglib2.0-dev (glib2)          >= 2.48.0
- * libxml2-utils (libxml2)
  * meson                           >= 0.40
  ```
 

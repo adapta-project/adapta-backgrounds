@@ -25,24 +25,22 @@ Installation from Git Source
 1. Check build-requirements:
 
  ```
- * autoconf
- * automake
  * libglib2.0-dev (glib2)          >= 2.48.0
  * libxml2-utils (libxml2)
- * pkg-config (pkgconfig)
+ * meson                           >= 0.40
  ```
 
 3. Build and install system-wide:
 
  ```
- ./autogen.sh
- make
- sudo make install
+ meson build --prefix=/usr && cd build
+ ninja
+ sudo ninja install
  ```
 
  > **Note:**
  >
- >   * Default prefix is `/usr`.
+ >   * Currently `ninja` command builds nothing.
 
 Work in Progress
 ----------------
